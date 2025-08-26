@@ -60,13 +60,13 @@ Output (1 unit) + Sigmoid
 - Basic Python knowledge
 
 ### Running in Google Colab
-1. **Open the Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srizoni-maity/Cats-vs-Dogs-Image-Classifier/blob/main/Cats_vs_Dogs_Image_Classifier.ipynb)
+1. **Open the Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/srizoni-maity/Cats-vs-Dogs-Image-Classifier/blob/main/model.ipynb)
 2. **Run all cells**: Execute the entire notebook sequentially
 3. **View results**: Watch real-time training and accuracy graphs
 
 ##  Performance
 
-![Training Progress](https://github.com/srizoni-maity/Cats-vs-Dogs-Image-Classifier/raw/main/assets/training_results.png)
+![Training Progress](https://github.com/srizoni-maity/Cats-vs-Dogs-Image-Classifier/blob/main/graph.jpeg)
 
 ##  Skills Demonstrated
 

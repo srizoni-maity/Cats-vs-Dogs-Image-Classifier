@@ -64,11 +64,11 @@ Output (1 unit) + Sigmoid
 2. **Run all cells**: Execute the entire notebook sequentially
 3. **View results**: Watch real-time training and accuracy graphs
 
-## 📈 Performance
+##  Performance
 
 ![Training Progress](https://github.com/srizoni-maity/Cats-vs-Dogs-Image-Classifier/raw/main/assets/training_results.png)
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 - **Deep Learning**: CNN architecture design and implementation
 - **Computer Vision**: Image preprocessing and augmentation
@@ -80,10 +80,11 @@ Output (1 unit) + Sigmoid
 
 **Srizoni Maity**  
 - GitHub: [@srizoni-maity](https://github.com/srizoni-maity)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+- LinkedIn: [https://www.linkedin.com/in/srizoni-maity-012235356]
 
 ##  Acknowledgments
-
-- Dataset provided by Google ML Education
+Dataset provided by Google ML Education
 - TensorFlow and Keras documentation
 - Google Colab for cloud computing resources
+
+
